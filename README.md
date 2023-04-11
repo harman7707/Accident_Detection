@@ -14,10 +14,6 @@ This project helps to reduce the number of fatalities due to road accidents.
 Therefore, by implementing this in real life, the concerned authorities and people
 will benefit from the need to save precious human lives.
 
-## Requirements:
-1) Download and install Anaconda Distribution.
-2) Create account in Twilio which provides paid programmable communication tools, we can also use 7-days free trail.
-
 ## Procedure:
 1) Download the files and extract it in "C:\Users\Admin" path.
 2) Launch Jupyter notebook from anaconda Navigator.
@@ -31,7 +27,8 @@ will benefit from the need to save precious human lives.
 
 
 ## Poject Team Members:
-1) Sai Kishore S
-2) Vazhmuni V
-3) Vinoth S
+Harmanjot Singh
+Ashish Kalra
+Naman Pandey
+Soumya Sinha
 
