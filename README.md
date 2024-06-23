@@ -27,7 +27,7 @@ will benefit from the need to save precious human lives.
 
 
 ## Poject Team Members:
-Harmanjot Singh
+Harman Jot Singh
 Ashish Kalra
 Naman Pandey
 Soumya Sinha
